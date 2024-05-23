@@ -3,7 +3,7 @@
 # PetPair
 
 ## Overview
-PetPair is a C program designed to manage pet adoption records and user interactions in an animal shelter system. It provides functionalities for both regular users and administrators to search for pets, add or remove pets, and adopt pets. users can input the attributes they want in a pet and the program will return closest matches based on the user's input.
+PetPair is a C program designed to manage pet adoption records and user interactions in an animal shelter system. It provides functionalities for both regular users and administrators to search for pets, add or remove pets, and adopt pets. users can input the attributes they want in a pet (species, breed, age, activity levels) and the program will return closest matches based on the user's input.
 
 ## Features
 - **Regular User Menu:**
